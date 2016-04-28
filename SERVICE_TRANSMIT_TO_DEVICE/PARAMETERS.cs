@@ -5,7 +5,7 @@ using System.Text;
 
 namespace SERVICE_TRANSMIT_TO_DEVICE
 {
-   public class PARAMETERS
+   public class PARAMETERS  //list of paramaters
     {
        public string Database { get; set; }
        public string Server { get; set; }
