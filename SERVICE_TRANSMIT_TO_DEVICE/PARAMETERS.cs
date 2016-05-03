@@ -16,6 +16,13 @@ namespace SERVICE_TRANSMIT_TO_DEVICE
        public bool   Stop { get; set; }
 
 
+      public PARAMETERS()//initialize the parameters from the config file
+       {
+           Database = "";
+
+
+
+       }
 
 
 
